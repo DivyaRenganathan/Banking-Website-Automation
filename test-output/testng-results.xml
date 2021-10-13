@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="2" total="6" passed="2" failed="2" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-10-06T23:42:13 IST" name="Suite" finished-at="2021-10-06T23:44:49 IST" duration-ms="156431">
+  <suite started-at="2021-10-13T00:01:15 IST" name="Suite" finished-at="2021-10-13T00:02:13 IST" duration-ms="57388">
     <groups>
     </groups>
-    <test started-at="2021-10-06T23:42:13 IST" name="ChromeTest" finished-at="2021-10-06T23:44:49 IST" duration-ms="156431">
-      <class name="testCases.TC01_LoginTest">
-        <test-method is-config="true" signature="setUpTest(java.lang.String)[pri:0, instance:testCases.TC01_LoginTest@3590fc5b]" started-at="2021-10-06T23:42:15 IST" name="setUpTest" finished-at="2021-10-06T23:44:01 IST" duration-ms="105880" status="PASS">
+    <test started-at="2021-10-13T00:01:15 IST" name="ChromeTest" finished-at="2021-10-13T00:02:13 IST" duration-ms="57388">
+      <class name="testCases.TC03_RegisterTest">
+        <test-method is-config="true" signature="setUpTest(java.lang.String)[pri:0, instance:testCases.TC03_RegisterTest@5656be13]" started-at="2021-10-13T00:01:16 IST" name="setUpTest" finished-at="2021-10-13T00:01:57 IST" duration-ms="40765" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,149 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method signature="LoginTest()[pri:0, instance:testCases.TC01_LoginTest@3590fc5b]" started-at="2021-10-06T23:44:01 IST" name="LoginTest" finished-at="2021-10-06T23:44:11 IST" duration-ms="10188" status="PASS">
+        <test-method signature="RegisterTest()[pri:0, instance:testCases.TC03_RegisterTest@5656be13]" started-at="2021-10-13T00:01:57 IST" name="RegisterTest" finished-at="2021-10-13T00:02:08 IST" duration-ms="11062" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginTest -->
-        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:testCases.TC01_LoginTest@3590fc5b]" started-at="2021-10-06T23:44:43 IST" name="tearDownTest" finished-at="2021-10-06T23:44:49 IST" duration-ms="6115" status="PASS">
+        </test-method> <!-- RegisterTest -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:testCases.TC03_RegisterTest@5656be13]" started-at="2021-10-13T00:02:08 IST" name="tearDownTest" finished-at="2021-10-13T00:02:13 IST" duration-ms="4731" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownTest -->
-      </class> <!-- testCases.TC01_LoginTest -->
-      <class name="testCases.TC02_LoginCredentialsTest">
-        <test-method signature="LoginCredentialsTest(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_LoginCredentialsTest@618b19ad]" started-at="2021-10-06T23:44:15 IST" name="LoginCredentialsTest" data-provider="Credential" finished-at="2021-10-06T23:44:26 IST" duration-ms="11369" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[UserTester]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[testpwd]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LoginCredentialsTest -->
-        <test-method signature="LoginCredentialsTest(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_LoginCredentialsTest@618b19ad]" started-at="2021-10-06T23:44:26 IST" name="LoginCredentialsTest" data-provider="Credential" finished-at="2021-10-06T23:44:34 IST" duration-ms="8121" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[John]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Demo]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:99)
-at org.testng.Assert.failNotEquals(Assert.java:1037)
-at org.testng.Assert.assertTrue(Assert.java:45)
-at org.testng.Assert.assertTrue(Assert.java:55)
-at testCases.TC02_LoginCredentialsTest.LoginCredentialsTest(TC02_LoginCredentialsTest.java:51)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:567)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:794)
-at org.testng.TestRunner.run(TestRunner.java:596)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-at org.testng.TestNG.runSuites(TestNG.java:1063)
-at org.testng.TestNG.run(TestNG.java:1031)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LoginCredentialsTest -->
-        <test-method signature="LoginCredentialsTest(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_LoginCredentialsTest@618b19ad]" started-at="2021-10-06T23:44:34 IST" name="LoginCredentialsTest" data-provider="Credential" finished-at="2021-10-06T23:44:43 IST" duration-ms="8622" status="FAIL">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[WrongTest]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[wrgpwd]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:99)
-at org.testng.Assert.failNotEquals(Assert.java:1037)
-at org.testng.Assert.assertTrue(Assert.java:45)
-at org.testng.Assert.assertTrue(Assert.java:55)
-at testCases.TC02_LoginCredentialsTest.LoginCredentialsTest(TC02_LoginCredentialsTest.java:51)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:567)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:794)
-at org.testng.TestRunner.run(TestRunner.java:596)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-at org.testng.TestNG.runSuites(TestNG.java:1063)
-at org.testng.TestNG.run(TestNG.java:1031)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LoginCredentialsTest -->
-      </class> <!-- testCases.TC02_LoginCredentialsTest -->
+      </class> <!-- testCases.TC03_RegisterTest -->
     </test> <!-- ChromeTest -->
   </suite> <!-- Suite -->
 </testng-results>

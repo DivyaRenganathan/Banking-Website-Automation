@@ -7,13 +7,13 @@
   <test thread-count="5" name="ChromeTest(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC02_LoginCredentialsTest">
+      <class name="testCases.TC03_RegisterTest">
         <methods>
-          <include name="LoginCredentialsTest" invocation-numbers="1 2"/>
           <include name="tearDownTest"/>
           <include name="setUpTest"/>
+          <include name="RegisterTest"/>
         </methods>
-      </class> <!-- testCases.TC02_LoginCredentialsTest -->
+      </class> <!-- testCases.TC03_RegisterTest -->
     </classes>
   </test> <!-- ChromeTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->

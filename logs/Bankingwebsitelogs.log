@@ -125,3 +125,18 @@
 [INFO ] 2021-10-06 23:44:26.777 [main] testCases - Clicked password
 [INFO ] 2021-10-06 23:44:34.990 [main] testCases - Clicked username
 [INFO ] 2021-10-06 23:44:35.060 [main] testCases - Clicked password
+[INFO ] 2021-10-12 23:53:09.621 [main] testCases - userEqAAwas successfully registerd
+[INFO ] 2021-10-13 00:02:01.546 [main] testCases - Register Link has clicked
+[INFO ] 2021-10-13 00:02:02.999 [main] testCases - Entered first name
+[INFO ] 2021-10-13 00:02:03.313 [main] testCases - Entered last name
+[INFO ] 2021-10-13 00:02:03.485 [main] testCases - Entered address
+[INFO ] 2021-10-13 00:02:03.713 [main] testCases - Entered city
+[INFO ] 2021-10-13 00:02:03.890 [main] testCases - Entered state
+[INFO ] 2021-10-13 00:02:04.059 [main] testCases - Entered zipcode
+[INFO ] 2021-10-13 00:02:04.223 [main] testCases - Entered phonenumber
+[INFO ] 2021-10-13 00:02:04.371 [main] testCases - Entered SSN
+[INFO ] 2021-10-13 00:02:04.544 [main] testCases - Entered Username
+[INFO ] 2021-10-13 00:02:04.758 [main] testCases - Entered Password
+[INFO ] 2021-10-13 00:02:04.942 [main] testCases - Confirmed Username
+[INFO ] 2021-10-13 00:02:07.054 [main] testCases - Clicked Register button
+[INFO ] 2021-10-13 00:02:08.341 [main] testCases - userkmPkwas successfully registerd
