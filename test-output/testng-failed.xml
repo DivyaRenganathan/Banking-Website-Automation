@@ -4,16 +4,17 @@
   <listeners>
     <listener class-name="utilites.Reporting"/>
   </listeners>
-  <test thread-count="5" name="ChromeTest(failed)">
-    <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="MicrosoftEdgeTest(failed)">
+    <parameter name="browser" value="edge"/>
+    <parameter name="accounttype" value="CHECKING"/>
     <classes>
-      <class name="testCases.TC03_RegisterTest">
+      <class name="testCases.TC05_AccountOverviewTest">
         <methods>
+          <include name="AccountOverViewTest"/>
           <include name="tearDownTest"/>
           <include name="setUpTest"/>
-          <include name="RegisterTest"/>
         </methods>
-      </class> <!-- testCases.TC03_RegisterTest -->
+      </class> <!-- testCases.TC05_AccountOverviewTest -->
     </classes>
-  </test> <!-- ChromeTest(failed) -->
+  </test> <!-- MicrosoftEdgeTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->

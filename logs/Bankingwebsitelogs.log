@@ -140,3 +140,429 @@
 [INFO ] 2021-10-13 00:02:04.942 [main] testCases - Confirmed Username
 [INFO ] 2021-10-13 00:02:07.054 [main] testCases - Clicked Register button
 [INFO ] 2021-10-13 00:02:08.341 [main] testCases - userkmPkwas successfully registerd
+[INFO ] 2021-10-15 19:36:16.629 [main] testCases - Clicked username
+[INFO ] 2021-10-15 19:36:17.770 [main] testCases - Clicked password
+[INFO ] 2021-10-15 19:36:22.734 [main] testCases - test case passed
+[INFO ] 2021-10-15 22:40:56.396 [main] testCases - Clicked username
+[INFO ] 2021-10-15 22:40:57.165 [main] testCases - Clicked password
+[INFO ] 2021-10-15 22:41:02.366 [main] testCases - test case passed
+[INFO ] 2021-10-15 22:41:11.395 [main] testCases - Clicked username
+[INFO ] 2021-10-15 22:41:11.567 [main] testCases - Clicked password
+[INFO ] 2021-10-15 22:41:16.877 [main] testCases - TC02_LoginCredentialsTest testcase passed
+[INFO ] 2021-10-15 22:41:22.308 [main] testCases - Clicked username
+[INFO ] 2021-10-15 22:41:22.358 [main] testCases - Clicked password
+[INFO ] 2021-10-15 22:41:32.056 [main] testCases - Clicked username
+[INFO ] 2021-10-15 22:41:32.115 [main] testCases - Clicked password
+[INFO ] 2021-10-15 22:41:41.885 [main] testCases - Register Link has clicked
+[INFO ] 2021-10-15 22:41:42.732 [main] testCases - Entered first name
+[INFO ] 2021-10-15 22:41:42.898 [main] testCases - Entered last name
+[INFO ] 2021-10-15 22:41:43.131 [main] testCases - Entered address
+[INFO ] 2021-10-15 22:41:43.272 [main] testCases - Entered city
+[INFO ] 2021-10-15 22:41:43.420 [main] testCases - Entered state
+[INFO ] 2021-10-15 22:41:43.736 [main] testCases - Entered zipcode
+[INFO ] 2021-10-15 22:41:44.025 [main] testCases - Entered phonenumber
+[INFO ] 2021-10-15 22:41:44.204 [main] testCases - Entered SSN
+[INFO ] 2021-10-15 22:41:44.336 [main] testCases - Entered Username
+[INFO ] 2021-10-15 22:41:44.542 [main] testCases - Entered Password
+[INFO ] 2021-10-15 22:41:44.719 [main] testCases - Confirmed Username
+[INFO ] 2021-10-15 22:41:45.898 [main] testCases - Clicked Register button
+[INFO ] 2021-10-15 22:41:46.248 [main] testCases - userbAcewas successfully registerd
+[INFO ] 2021-10-15 23:21:22.677 [main] testCases - TC04_OpenAccountTest passed
+[INFO ] 2021-10-15 23:43:05.742 [main] testCases - TC04_OpenAccountTest passed
+[INFO ] 2021-10-15 23:51:46.327 [main] testCases - TC04_OpenAccountTest passed
+[INFO ] 2021-10-16 14:21:13.230 [main] testCases - TC04_OpenAccountTest passed
+[INFO ] 2021-10-16 17:15:26.971 [main] testCases - TC04_OpenAccountTest passed
+[INFO ] 2021-10-16 17:30:53.182 [main] testCases - TC04_OpenAccountTest passed
+[INFO ] 2021-10-16 17:35:02.628 [main] testCases - TC04_OpenAccountTest passed
+[INFO ] 2021-10-16 17:35:06.788 [main] testCases - Clicked the OpenAccount Button
+[INFO ] 2021-10-16 18:00:36.358 [main] testCases - Clicked the OpenAccount Button
+[INFO ] 2021-10-16 18:15:29.383 [main] testCases - Clicked username
+[INFO ] 2021-10-16 18:15:29.873 [main] testCases - Clicked password
+[INFO ] 2021-10-16 18:15:33.525 [main] testCases - test case passed
+[INFO ] 2021-10-16 18:15:38.898 [main] testCases - Clicked username
+[INFO ] 2021-10-16 18:15:38.953 [main] testCases - Clicked password
+[INFO ] 2021-10-16 18:15:43.347 [main] testCases - TC02_LoginCredentialsTest testcase passed
+[INFO ] 2021-10-16 18:15:47.476 [main] testCases - Clicked username
+[INFO ] 2021-10-16 18:15:47.545 [main] testCases - Clicked password
+[INFO ] 2021-10-16 18:15:57.908 [main] testCases - Clicked username
+[INFO ] 2021-10-16 18:15:57.978 [main] testCases - Clicked password
+[INFO ] 2021-10-16 18:16:08.313 [main] testCases - Register Link has clicked
+[INFO ] 2021-10-16 18:16:08.750 [main] testCases - Entered first name
+[INFO ] 2021-10-16 18:16:08.911 [main] testCases - Entered last name
+[INFO ] 2021-10-16 18:16:09.309 [main] testCases - Entered address
+[INFO ] 2021-10-16 18:16:09.461 [main] testCases - Entered city
+[INFO ] 2021-10-16 18:16:10.013 [main] testCases - Entered state
+[INFO ] 2021-10-16 18:16:10.178 [main] testCases - Entered zipcode
+[INFO ] 2021-10-16 18:16:10.332 [main] testCases - Entered phonenumber
+[INFO ] 2021-10-16 18:16:10.471 [main] testCases - Entered SSN
+[INFO ] 2021-10-16 18:16:10.711 [main] testCases - Entered Username
+[INFO ] 2021-10-16 18:16:10.912 [main] testCases - Entered Password
+[INFO ] 2021-10-16 18:16:11.123 [main] testCases - Confirmed Username
+[INFO ] 2021-10-16 18:16:12.675 [main] testCases - Clicked Register button
+[INFO ] 2021-10-16 18:16:13.343 [main] testCases - usercsnjwas successfully registerd
+[INFO ] 2021-10-16 18:23:56.717 [main] testCases - Clicked username
+[INFO ] 2021-10-16 18:23:57.011 [main] testCases - Clicked password
+[INFO ] 2021-10-16 18:23:59.275 [main] testCases - test case passed
+[INFO ] 2021-10-16 18:24:25.426 [main] testCases - Clicked username
+[INFO ] 2021-10-16 18:24:25.488 [main] testCases - Clicked password
+[INFO ] 2021-10-16 18:24:30.691 [main] testCases - TC02_LoginCredentialsTest testcase passed
+[INFO ] 2021-10-16 18:24:36.272 [main] testCases - Clicked username
+[INFO ] 2021-10-16 18:24:36.326 [main] testCases - Clicked password
+[INFO ] 2021-10-16 18:24:46.284 [main] testCases - Clicked username
+[INFO ] 2021-10-16 18:24:46.383 [main] testCases - Clicked password
+[INFO ] 2021-10-16 18:24:55.715 [main] testCases - Register Link has clicked
+[INFO ] 2021-10-16 18:24:56.163 [main] testCases - Entered first name
+[INFO ] 2021-10-16 18:24:56.401 [main] testCases - Entered last name
+[INFO ] 2021-10-16 18:24:56.570 [main] testCases - Entered address
+[INFO ] 2021-10-16 18:24:56.708 [main] testCases - Entered city
+[INFO ] 2021-10-16 18:24:56.853 [main] testCases - Entered state
+[INFO ] 2021-10-16 18:24:56.993 [main] testCases - Entered zipcode
+[INFO ] 2021-10-16 18:24:57.135 [main] testCases - Entered phonenumber
+[INFO ] 2021-10-16 18:24:57.257 [main] testCases - Entered SSN
+[INFO ] 2021-10-16 18:24:57.393 [main] testCases - Entered Username
+[INFO ] 2021-10-16 18:24:57.582 [main] testCases - Entered Password
+[INFO ] 2021-10-16 18:24:57.726 [main] testCases - Confirmed Username
+[INFO ] 2021-10-16 18:24:58.614 [main] testCases - Clicked Register button
+[INFO ] 2021-10-16 18:24:58.942 [main] testCases - useraonKwas successfully registerd
+[INFO ] 2021-10-16 18:28:42.000 [main] testCases - Clicked username
+[INFO ] 2021-10-16 18:28:42.769 [main] testCases - Clicked password
+[INFO ] 2021-10-16 18:28:49.952 [main] testCases - test case passed
+[INFO ] 2021-10-16 18:28:55.787 [main] testCases - Clicked username
+[INFO ] 2021-10-16 18:28:55.881 [main] testCases - Clicked password
+[INFO ] 2021-10-16 18:29:01.592 [main] testCases - TC02_LoginCredentialsTest testcase passed
+[INFO ] 2021-10-16 18:29:07.064 [main] testCases - Clicked username
+[INFO ] 2021-10-16 18:29:07.131 [main] testCases - Clicked password
+[INFO ] 2021-10-16 18:29:15.191 [main] testCases - Clicked username
+[INFO ] 2021-10-16 18:29:15.266 [main] testCases - Clicked password
+[INFO ] 2021-10-16 18:29:23.739 [main] testCases - Register Link has clicked
+[INFO ] 2021-10-16 18:29:23.917 [main] testCases - Entered first name
+[INFO ] 2021-10-16 18:29:24.101 [main] testCases - Entered last name
+[INFO ] 2021-10-16 18:29:24.240 [main] testCases - Entered address
+[INFO ] 2021-10-16 18:29:24.371 [main] testCases - Entered city
+[INFO ] 2021-10-16 18:29:24.504 [main] testCases - Entered state
+[INFO ] 2021-10-16 18:29:24.625 [main] testCases - Entered zipcode
+[INFO ] 2021-10-16 18:29:24.781 [main] testCases - Entered phonenumber
+[INFO ] 2021-10-16 18:29:24.903 [main] testCases - Entered SSN
+[INFO ] 2021-10-16 18:29:25.034 [main] testCases - Entered Username
+[INFO ] 2021-10-16 18:29:25.189 [main] testCases - Entered Password
+[INFO ] 2021-10-16 18:29:25.370 [main] testCases - Confirmed Username
+[INFO ] 2021-10-16 18:29:26.566 [main] testCases - Clicked Register button
+[INFO ] 2021-10-16 18:29:26.936 [main] testCases - userUEiOwas successfully registerd
+[INFO ] 2021-10-16 18:29:31.833 [main] testCases - TC04_OpenAccountTest passed
+[INFO ] 2021-10-16 18:29:35.548 [main] testCases - Clicked the OpenAccount Button
+[INFO ] 2021-10-16 18:51:14.543 [main] testCases - TC04_OpenAccountTest passed
+[INFO ] 2021-10-16 18:51:35.086 [main] testCases - TC04_OpenAccountTest- Account type -passed
+[INFO ] 2021-10-16 18:53:17.370 [main] testCases - TC04_OpenAccountTest passed
+[INFO ] 2021-10-16 18:54:43.799 [main] testCases - TC04_OpenAccountTest- Account type -passed
+[INFO ] 2021-10-16 20:28:02.749 [main] testCases - Clicked username
+[INFO ] 2021-10-16 20:28:02.865 [main] testCases - Clicked password
+[INFO ] 2021-10-16 20:28:05.090 [main] testCases - test case passed
+[INFO ] 2021-10-16 20:29:17.130 [main] testCases - Clicked username
+[INFO ] 2021-10-16 20:29:17.211 [main] testCases - Clicked password
+[INFO ] 2021-10-16 20:29:19.318 [main] testCases - test case passed
+[INFO ] 2021-10-16 20:29:21.256 [main] testCases - Clicked username
+[INFO ] 2021-10-16 20:29:21.321 [main] testCases - Clicked password
+[INFO ] 2021-10-16 20:29:22.608 [main] testCases - test case passed
+[INFO ] 2021-10-16 20:30:18.018 [main] testCases - Clicked username
+[INFO ] 2021-10-16 20:30:18.133 [main] testCases - Clicked password
+[INFO ] 2021-10-16 20:30:19.817 [main] testCases - test case passed
+[INFO ] 2021-10-16 20:31:56.954 [main] testCases - TC04_OpenAccountTest passed
+[INFO ] 2021-10-16 21:45:40.603 [main] testCases - TC04_OpenAccountTest passed
+[INFO ] 2021-10-16 21:51:26.582 [main] testCases - TC04_OpenAccountTest passed
+[INFO ] 2021-10-16 21:59:13.199 [main] testCases - TC04_OpenAccountTest- Account type -passed
+[INFO ] 2021-10-16 21:59:21.119 [main] testCases - TC04_OpenAccountTest passed
+[INFO ] 2021-10-17 13:25:29.183 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 13:25:30.712 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 13:25:31.208 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 13:25:31.461 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 13:25:32.024 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 13:43:09.554 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 13:52:34.730 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 13:52:35.855 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 13:52:36.277 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 13:52:36.569 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 13:52:36.781 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 16:16:56.240 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 16:24:58.108 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 16:24:59.527 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 16:24:59.843 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 16:25:00.161 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 16:25:00.343 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 16:33:03.121 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 16:33:04.613 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 16:33:04.973 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 16:33:05.264 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 16:33:05.681 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 16:38:53.717 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 16:38:54.429 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 16:38:54.602 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 16:38:54.803 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 16:38:54.972 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 16:41:17.187 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 16:41:17.920 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 16:41:18.082 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 16:41:18.249 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 16:41:18.392 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 16:42:18.331 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 16:42:19.618 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 16:42:19.814 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 16:42:20.004 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 16:42:20.138 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 16:43:14.653 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 16:43:15.257 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 16:43:15.483 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 16:45:19.631 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 16:45:20.826 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 16:45:21.059 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 16:46:46.113 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 16:46:46.828 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 16:46:46.989 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 16:50:34.336 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 16:50:35.456 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 16:50:35.871 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 16:50:36.149 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 16:50:36.553 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 16:59:55.702 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 16:59:57.317 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 16:59:57.671 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 16:59:57.889 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 16:59:58.054 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 17:05:23.493 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 17:05:24.957 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 17:05:25.168 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 17:09:07.617 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 17:09:09.010 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 17:09:09.339 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 17:09:09.662 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 17:09:09.981 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 17:14:34.857 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 17:14:36.168 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 17:14:36.756 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 17:15:43.839 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 17:15:45.085 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 17:15:45.242 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 17:15:45.417 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 17:15:45.586 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 17:21:50.420 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 17:21:51.920 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 17:21:52.429 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 17:21:52.850 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 17:21:53.035 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 17:26:38.801 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 17:26:40.513 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 17:26:41.084 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 17:26:41.382 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 17:26:41.858 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 17:29:15.096 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 17:29:16.860 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 17:29:17.319 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 17:29:17.553 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 17:29:17.706 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 17:59:26.287 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 17:59:29.007 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 17:59:29.612 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 17:59:30.120 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 17:59:30.366 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 18:00:36.299 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 18:00:37.563 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 18:00:37.723 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 18:00:37.905 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 18:00:38.056 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 18:02:03.564 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 18:02:05.155 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 18:02:06.713 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 18:02:07.257 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 18:02:07.532 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 18:16:10.106 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 18:16:11.738 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 18:16:12.165 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 18:16:12.378 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 18:16:12.572 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 18:18:44.861 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 18:18:45.733 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 18:18:46.015 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 19:01:34.513 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 19:03:44.758 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 19:03:46.651 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 19:03:47.113 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 19:03:47.325 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 19:03:47.517 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 19:05:27.792 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 19:05:29.236 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 19:05:29.507 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 19:05:29.733 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 19:05:29.885 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 19:15:27.979 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 19:15:29.864 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 19:15:30.413 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 19:15:30.724 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 19:15:31.079 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 19:19:50.638 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 19:19:51.871 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 19:19:52.725 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 19:19:52.916 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 19:19:53.086 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 19:40:32.761 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 19:40:34.174 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 19:40:34.710 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 19:40:34.979 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 19:40:35.132 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 19:41:32.169 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 19:41:32.882 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 19:41:33.099 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 19:41:33.272 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 19:41:33.417 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 19:47:38.634 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 19:47:39.333 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 19:47:39.591 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 19:47:39.819 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 19:47:39.986 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 19:48:38.493 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 19:48:39.792 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 19:48:40.091 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 19:48:40.317 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 19:48:40.450 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 19:58:51.611 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 19:58:52.431 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 19:58:52.682 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 19:59:47.116 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 19:59:48.038 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 19:59:48.282 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 19:59:48.594 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 19:59:48.915 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 20:01:46.422 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 20:01:47.629 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 20:01:47.784 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 20:01:47.925 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 20:01:48.148 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 20:03:26.122 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 20:03:27.279 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 20:03:27.657 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 20:03:27.913 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 20:03:28.206 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 20:07:08.398 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 20:07:09.071 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 20:07:09.325 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 20:07:09.600 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 20:07:09.960 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 20:08:20.272 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 20:08:21.509 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 20:08:21.664 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 20:08:21.811 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 20:08:21.966 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 20:19:30.135 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 20:19:31.832 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 20:19:32.276 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 20:19:32.454 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 20:19:33.122 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 20:22:05.367 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 20:22:06.701 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 20:22:07.752 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 20:22:08.210 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 20:22:08.672 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 20:23:19.431 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 20:23:20.182 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 20:23:20.360 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 20:23:20.513 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 20:23:20.700 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 20:24:29.818 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 20:24:31.056 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 20:24:31.229 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 20:25:45.104 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 20:25:45.769 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 20:25:45.924 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 20:25:46.085 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 20:25:46.230 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 20:30:39.706 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 20:30:40.394 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 20:30:40.585 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 20:30:40.777 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 20:30:40.928 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 20:57:18.273 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 20:57:19.757 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 20:57:20.429 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 20:57:21.017 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 20:57:21.303 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 20:59:50.332 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 20:59:51.915 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 20:59:52.382 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 20:59:52.744 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 20:59:52.991 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 21:03:40.756 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:03:41.972 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:03:42.123 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:03:42.306 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 21:03:42.442 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 21:06:28.252 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:06:28.937 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:06:29.081 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:06:29.220 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 21:06:29.498 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 21:07:25.755 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:07:26.461 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:07:26.627 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:07:26.761 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 21:07:26.963 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 21:09:33.383 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:09:34.554 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:09:34.702 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:09:34.889 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 21:09:35.076 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 21:13:48.373 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:13:49.623 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:13:49.995 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:13:50.203 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 21:13:50.341 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 21:17:47.553 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:17:50.310 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:17:50.885 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:17:51.132 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 21:17:51.313 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 21:19:46.215 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:19:47.596 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:19:47.902 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:19:48.084 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 21:19:48.210 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 21:22:17.998 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:22:18.648 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:22:18.805 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:22:18.978 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 21:22:19.188 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 21:23:46.164 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:23:47.329 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:23:47.545 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:24:29.375 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:24:30.084 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:24:30.388 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:24:30.630 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 21:24:30.754 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 21:26:11.137 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:26:12.437 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:26:12.627 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:26:12.789 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 21:26:12.960 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 21:28:59.783 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:29:00.471 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:29:00.672 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:29:00.840 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 21:29:01.138 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 21:29:52.999 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:29:53.692 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:29:53.880 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:29:54.047 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 21:29:54.193 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 21:31:27.555 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:31:28.292 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:31:28.451 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:31:28.609 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 21:31:28.777 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 21:33:02.066 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:33:02.734 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:33:02.945 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:33:03.175 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 21:33:03.420 [main] testCases - Open Account button clicked successfully
+[INFO ] 2021-10-17 21:34:03.283 [main] testCases - Logged in successfully
+[INFO ] 2021-10-17 21:34:04.218 [main] testCases - Link clicked successfully
+[INFO ] 2021-10-17 21:34:04.521 [main] testCases - Account type successfully
+[INFO ] 2021-10-17 21:34:04.805 [main] testCases - Account Number selected successfully
+[INFO ] 2021-10-17 21:34:05.002 [main] testCases - Open Account button clicked successfully

@@ -49,4 +49,10 @@ public class HomePage {
 		String wtext =WelcomeText.getText();
 		return wtext;
 	}
+	public void ClickOpenAccount() {
+		OpenAcc.click();
+	}
+	public void AccountOverViewPage() {
+		 Overview.click();
+	}
 }

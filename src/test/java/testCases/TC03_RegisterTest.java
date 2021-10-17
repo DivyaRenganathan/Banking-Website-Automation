@@ -60,6 +60,7 @@ public class TC03_RegisterTest extends BaseTest{
 		if(Registercheck.equals(AssertRegister+newUser)) {
 			getScreenshot(driver,"RegisterTest");
 			logger.info(newUser+"was successfully registerd");
+			HomePageObj.ClickLogout();
 		}
 		else {
 			getScreenshot(driver,"RegisterTest");

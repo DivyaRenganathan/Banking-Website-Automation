@@ -4,15 +4,26 @@
 	<listeners>
 		<listener class-name="utilites.Reporting" />
 	</listeners>
-	<!-- <test name="MicrosoftEdgeTest"> <parameter name="browser" value="edge"></parameter> 
+	<!-- Test -->
+	<test name="MicrosoftEdgeTest">
+		<parameter name="browser" value="edge"></parameter>
+		<parameter name="accounttype" value="CHECKING"></parameter>
 		<classes>
-		 <class name="testCases.TC01_LoginTest" />
-		 <class name="testCases.TC02_LoginCredentialsTest" />
-		 </classes> </test> -->
-	<test name="ChromeTest">
-		<parameter name="browser" value="chrome"></parameter>
-		<classes>
+		<class name="testCases.TC01_LoginTest" />
+			<class name="testCases.TC02_LoginCredentialsTest" />
 			<class name="testCases.TC03_RegisterTest" />
+			<class name="testCases.TC04_OpenAccountTest" />
+			<class name="testCases.TC05_AccountOverviewTest" />
 		</classes>
-	</test>  <!-- Test -->
+	</test>
+	<!-- Test -->
+	 <test name="ChromeTest"> <parameter name="browser" value="chrome"></parameter> 
+		<parameter name="accounttype" value="CHECKING"></parameter> <classes>
+		<class name="testCases.TC01_LoginTest" />
+			<class name="testCases.TC02_LoginCredentialsTest" />
+			<class name="testCases.TC03_RegisterTest" />
+			<class name="testCases.TC04_OpenAccountTest" />
+			<class name="testCases.TC05_AccountOverviewTest" />
+		 </classes> 
+		</test> 
 </suite> <!-- Suite -->
