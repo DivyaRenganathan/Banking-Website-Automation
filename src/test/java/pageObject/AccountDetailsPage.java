@@ -26,7 +26,12 @@ public class AccountDetailsPage {
     WebElement tranType;
     @FindBy(xpath="//*[@id=\"rightPanel\"]/div/div[2]/form/table/tbody/tr[3]/td[2]/input")
     WebElement GoButton;
-    
+    @FindBy(xpath="//*[@id=\"transactionTable\"]/tbody/tr/td[1]")
+    WebElement date;
+    @FindBy(linkText="Funds Transfer Received")
+    WebElement fund;
+    @FindBy(xpath="//*[@id=\"rightPanel\"]/h1")
+    WebElement Transaction;
     /*--------------------------------------------------------------------------------------------------------------------
                                                          Constructor
     ---------------------------------------------------------------------------------------------------------------------*/
@@ -50,5 +55,14 @@ public class AccountDetailsPage {
       	Select dropdown = new Select(tranType); 
       	dropdown.selectByIndex(0); 
       }
-     
+     public void clickGo() {
+    	 GoButton.click();
+     }
+     public void clickFundLink() {
+    	 fund.click();
+     }
+     public String transactiontext() {
+    	String text= Transaction.getText();
+    	return text;
+     }
 }

@@ -20,7 +20,7 @@ public class TC05_AccountOverviewTest extends BaseTest  {
           Title and Assert declaration and initialization
 ---------------------------------------------------------------------------------------------------------------------*/
 	String Message;
-	String AssertOverview="Accounts Overview";
+	String AssertOverview="Account Details";
 /*--------------------------------------------------------------------------------------------------------------------
                      Invoking Action Methods
 ----------------------------------------------------*/
@@ -39,6 +39,7 @@ public class TC05_AccountOverviewTest extends BaseTest  {
 		HomePageObj.AccountOverViewPage();
 		AOPageObj.selectAccount();
 		Message =AOPageObj.getMessage();
+		System.out.println(Message);
 		if(Message.equals(AssertOverview)) {
 			assertTrue(true);
 			logger.info("TC05_AccountOverviewTest Case Passed");
